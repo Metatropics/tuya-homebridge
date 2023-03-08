@@ -1,0 +1,18 @@
+{
+    "result": {
+        "client_id": "cloud_c71488c444a21935080735d8315d61f3",
+        "expire_time": 7200,
+        "password": "9590b2a0fadf60121f7be90fdd1be06c",
+        "sink_topic": {
+            "device": "cloud/token/out/{device_id}"
+        },
+        "source_topic": {
+            "device": "cloud/token/in/b47531186925d052d1c0f11a7879ff20"
+        },
+        "url": "ssl://m1.tuyaus.com:8883",
+        "username": "cloud_b47531186925d052d1c0f11a7879ff20"
+    },
+    "success": true,
+    "t": 1678251966695,
+    "tid": "eeacda2bbd6e11ed8e091e9ebf08afbf"
+}

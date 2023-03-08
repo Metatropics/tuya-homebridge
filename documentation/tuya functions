@@ -1,0 +1,350 @@
+{
+    "result": [
+        {
+            "category": "rqbj",
+            "devices": [
+                "eb05eee7f7d0dbac2eu6gi"
+            ],
+            "functions": [
+                {
+                    "code": "alarm_time",
+                    "desc": "alarm time",
+                    "name": "alarm time",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"m\",\"min\":0,\"max\":60,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "code": "self_checking",
+                    "desc": "self checking",
+                    "name": "self checking",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "code": "muffling",
+                    "desc": "muffling",
+                    "name": "muffling",
+                    "type": "Boolean",
+                    "values": "{}"
+                }
+            ],
+            "product_id": "ozcdjaqrxauonq1f"
+        },
+        {
+            "category": "hps",
+            "devices": [
+                "eb5b5234e4a365c3adbtbc"
+            ],
+            "functions": [
+                {
+                    "code": "sensitivity",
+                    "desc": "sensitivity",
+                    "name": "sensitivity",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"\",\"min\":1,\"max\":10,\"scale\":0,\"step\":1}"
+                }
+            ],
+            "product_id": "atqumsbe7b6ryeka"
+        },
+        {
+            "category": "kg",
+            "devices": [
+                "652207156001948092f7",
+                "652207152cf432da5e04"
+            ],
+            "functions": [
+                {
+                    "code": "switch_1",
+                    "desc": "switch 1",
+                    "name": "switch 1",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "code": "countdown_1",
+                    "desc": "countdown 1",
+                    "name": "countdown 1",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                }
+            ],
+            "product_id": "ksizuyaoqyrz4let"
+        },
+        {
+            "category": "dj",
+            "devices": [
+                "eb70940d752f4fc90ckbq5",
+                "eb369b902649b69650a4tz",
+                "eba158306ab78a130bx4ql",
+                "eb95583ae8c80672cffcnn",
+                "eb026bc559040338d0j603"
+            ],
+            "functions": [
+                {
+                    "code": "switch_led",
+                    "desc": "switch led",
+                    "name": "switch led",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "code": "work_mode",
+                    "desc": "work mode",
+                    "name": "work mode",
+                    "type": "Enum",
+                    "values": "{\"range\":[\"white\",\"colour\",\"scene\",\"music\"]}"
+                },
+                {
+                    "code": "bright_value_v2",
+                    "desc": "bright value v2",
+                    "name": "bright value v2",
+                    "type": "Integer",
+                    "values": "{\"min\":10,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}"
+                },
+                {
+                    "code": "temp_value_v2",
+                    "desc": "temp value v2",
+                    "name": "temp value v2",
+                    "type": "Integer",
+                    "values": "{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}"
+                },
+                {
+                    "code": "colour_data_v2",
+                    "desc": "colour data v2",
+                    "name": "colour data v2",
+                    "type": "Json",
+                    "values": "{\"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}}"
+                },
+                {
+                    "code": "scene_data_v2",
+                    "desc": "scene data v2",
+                    "name": "scene data v2",
+                    "type": "Json",
+                    "values": "{\"scene_num\":{\"min\":1,\"scale\":0,\"max\":8,\"step\":1},\"scene_units\": {\"unit_change_mode\":{\"range\":[\"static\",\"jump\",\"gradient\"]},\"unit_switch_duration\":{\"min\":0,\"scale\":0,\"max\":100,\"step\":1},\"unit_gradient_duration\":{\"min\":0,\"scale\":0,\"max\":100,\"step\":1},\"bright\":{\"min\":0,\"scale\":0,\"max\":1000,\"step\":1},\"temperature\":{\"min\":0,\"scale\":0,\"max\":1000,\"step\":1},\"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}}}"
+                },
+                {
+                    "code": "music_data",
+                    "desc": "music data",
+                    "name": "music data",
+                    "type": "Json",
+                    "values": "{\"change_mode\":{\"range\":[\"direct\",\"gradient\"]}, \"bright\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"temperature\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}}"
+                },
+                {
+                    "code": "control_data",
+                    "desc": "control data",
+                    "name": "control data",
+                    "type": "Json",
+                    "values": "{\"change_mode\":{\"range\":[\"direct\",\"gradient\"]}, \"bright\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"temperature\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}}"
+                },
+                {
+                    "code": "countdown_1",
+                    "desc": "countdown 1",
+                    "name": "countdown 1",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                }
+            ],
+            "product_id": "qoqolwtqzfuhgghq"
+        },
+        {
+            "category": "cz",
+            "devices": [
+                "ebdc20380d0115cce8y2ac"
+            ],
+            "functions": [
+                {
+                    "code": "switch_1",
+                    "desc": "switch 1",
+                    "name": "switch 1",
+                    "type": "Boolean",
+                    "values": "{}"
+                }
+            ],
+            "product_id": "d7aa9we8g044hufo"
+        },
+        {
+            "category": "cz",
+            "devices": [
+                "eb13c7627a689a8724wi6h",
+                "eb06122ffd1a00860blbqc",
+                "eb54fffa5d28473397wlfa"
+            ],
+            "functions": [
+                {
+                    "code": "switch_1",
+                    "desc": "switch 1",
+                    "name": "switch 1",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "code": "countdown_1",
+                    "desc": "countdown 1",
+                    "name": "countdown 1",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "code": "relay_status",
+                    "desc": "relay status",
+                    "name": "relay status",
+                    "type": "Enum",
+                    "values": "{\"range\":[\"power_off\",\"power_on\",\"last\"]}"
+                },
+                {
+                    "code": "child_lock",
+                    "desc": "child lock",
+                    "name": "child lock",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "code": "cycle_time",
+                    "desc": "cycle time",
+                    "name": "cycle time",
+                    "type": "String",
+                    "values": "{}"
+                },
+                {
+                    "code": "random_time",
+                    "desc": "random time",
+                    "name": "random time",
+                    "type": "String",
+                    "values": "{}"
+                },
+                {
+                    "code": "switch_inching",
+                    "desc": "switch inching",
+                    "name": "switch inching",
+                    "type": "String",
+                    "values": "{}"
+                }
+            ],
+            "product_id": "jorlvalcdf5lz6qa"
+        },
+        {
+            "category": "dj",
+            "devices": [
+                "eb5d6b7bae960e270e6o5k"
+            ],
+            "functions": [
+                {
+                    "code": "switch_led",
+                    "desc": "switch led",
+                    "name": "switch led",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "code": "work_mode",
+                    "desc": "work mode",
+                    "name": "work mode",
+                    "type": "Enum",
+                    "values": "{\"range\":[\"white\",\"colour\",\"scene\",\"music\"]}"
+                },
+                {
+                    "code": "bright_value_v2",
+                    "desc": "bright value v2",
+                    "name": "bright value v2",
+                    "type": "Integer",
+                    "values": "{\"min\":10,\"max\":1000,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "code": "temp_value_v2",
+                    "desc": "temp value v2",
+                    "name": "temp value v2",
+                    "type": "Integer",
+                    "values": "{\"min\":0,\"max\":1000,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "code": "colour_data_v2",
+                    "desc": "colour data v2",
+                    "name": "colour data v2",
+                    "type": "Json",
+                    "values": "{\"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}}"
+                },
+                {
+                    "code": "scene_data_v2",
+                    "desc": "scene data v2",
+                    "name": "scene data v2",
+                    "type": "Json",
+                    "values": "{\"scene_num\":{\"min\":1,\"scale\":0,\"max\":8,\"step\":1},\"scene_units\": {\"unit_change_mode\":{\"range\":[\"static\",\"jump\",\"gradient\"]},\"unit_switch_duration\":{\"min\":0,\"scale\":0,\"max\":100,\"step\":1},\"unit_gradient_duration\":{\"min\":0,\"scale\":0,\"max\":100,\"step\":1},\"bright\":{\"min\":0,\"scale\":0,\"max\":1000,\"step\":1},\"temperature\":{\"min\":0,\"scale\":0,\"max\":1000,\"step\":1},\"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}}}"
+                },
+                {
+                    "code": "countdown_1",
+                    "desc": "countdown 1",
+                    "name": "countdown 1",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "code": "music_data",
+                    "desc": "music data",
+                    "name": "music data",
+                    "type": "Json",
+                    "values": "{\"change_mode\":{\"range\":[\"direct\",\"gradient\"]}, \"bright\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"temperature\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}}"
+                },
+                {
+                    "code": "control_data",
+                    "desc": "control data",
+                    "name": "control data",
+                    "type": "Json",
+                    "values": "{\"change_mode\":{\"range\":[\"direct\",\"gradient\"]}, \"bright\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"temperature\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":1000,\"step\":1}, \"h\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1},\"v\":{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}}"
+                },
+                {
+                    "code": "rhythm_mode",
+                    "desc": "rhythm mode",
+                    "name": "rhythm mode",
+                    "type": "Raw",
+                    "values": "{\"maxlen\":255}"
+                },
+                {
+                    "code": "sleep_mode",
+                    "desc": "sleep mode",
+                    "name": "sleep mode",
+                    "type": "Raw",
+                    "values": "{\"maxlen\":255}"
+                },
+                {
+                    "code": "wakeup_mode",
+                    "desc": "wakeup mode",
+                    "name": "wakeup mode",
+                    "type": "Raw",
+                    "values": "{\"maxlen\":255}"
+                },
+                {
+                    "code": "power_memory",
+                    "desc": "power memory",
+                    "name": "power memory",
+                    "type": "Raw",
+                    "values": "{}"
+                },
+                {
+                    "code": "do_not_disturb",
+                    "desc": "do not disturb",
+                    "name": "do not disturb",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "code": "cycle_timing",
+                    "desc": "cycle timing",
+                    "name": "cycle timing",
+                    "type": "Raw",
+                    "values": "{}"
+                },
+                {
+                    "code": "random_timing",
+                    "desc": "random timing",
+                    "name": "random timing",
+                    "type": "Raw",
+                    "values": "{}"
+                }
+            ],
+            "product_id": "tvhbzl4xswwp4syc"
+        }
+    ],
+    "success": true,
+    "t": 1678251966053,
+    "tid": "ee1bfddfbd6e11ed8e091e9ebf08afbf"
+}

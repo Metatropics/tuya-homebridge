@@ -1,0 +1,763 @@
+{
+    "result": {
+        "devices": [
+            {
+                "active_time": 1677693440,
+                "biz_type": 18,
+                "category": "cz",
+                "create_time": 1677693440,
+                "icon": "smart/icon/ay15422864509092y6k8/7065b46b115fa67e88bdc435abb48693.png",
+                "id": "eb13c7627a689a8724wi6h",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "614125d7f8771478",
+                "lon": "-99.2242",
+                "model": "LSP-A",
+                "name": "iPhone XS Max",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "jorlvalcdf5lz6qa",
+                "product_name": "Wifi Plug",
+                "status": [
+                    {
+                        "code": "switch_1",
+                        "value": true
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    },
+                    {
+                        "code": "relay_status",
+                        "value": "last"
+                    },
+                    {
+                        "code": "child_lock",
+                        "value": false
+                    },
+                    {
+                        "code": "cycle_time",
+                        "value": ""
+                    },
+                    {
+                        "code": "random_time",
+                        "value": ""
+                    },
+                    {
+                        "code": "switch_inching",
+                        "value": ""
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-06:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1677693468,
+                "uuid": "927e90b2be604d82"
+            },
+            {
+                "active_time": 1677693279,
+                "biz_type": 18,
+                "category": "kg",
+                "create_time": 1576031964,
+                "icon": "smart/icon/ay1502531417425W3pPt/f04385fadec0b62720e56740cb4f0774.jpg",
+                "id": "652207156001948092f7",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "2de7b4f235bf15b7",
+                "lon": "-99.2242",
+                "model": "",
+                "name": "Living Room iPad",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "ksizuyaoqyrz4let",
+                "product_name": " WiFi",
+                "status": [
+                    {
+                        "code": "switch_1",
+                        "value": true
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-06:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1677693329,
+                "uuid": "652207156001948092f7"
+            },
+            {
+                "active_time": 1677395131,
+                "biz_type": 18,
+                "category": "hps",
+                "create_time": 1666808229,
+                "icon": "smart/icon/ay1503986080106Gppjy/ef7c96ddcc1a189c01d9218e490bb42c.png",
+                "id": "eb5b5234e4a365c3adbtbc",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "c0140caf42afdcc1",
+                "lon": "-99.2243",
+                "model": "NAS-PS01W6",
+                "name": "Presence Sensor",
+                "online": false,
+                "owner_id": "11550402",
+                "product_id": "atqumsbe7b6ryeka",
+                "product_name": "Wi-Fi存在传感器-YUNFAN",
+                "status": [
+                    {
+                        "code": "presence_state",
+                        "value": "presence"
+                    },
+                    {
+                        "code": "sensitivity",
+                        "value": 10
+                    },
+                    {
+                        "code": "human_motion_state",
+                        "value": "motion"
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-06:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1677395342,
+                "uuid": "67ed66192c5f66f9"
+            },
+            {
+                "active_time": 1676950736,
+                "biz_type": 18,
+                "category": "dj",
+                "create_time": 1674488608,
+                "icon": "smart/icon/ay1551376094673Otl5E/75a8e347f55c951b50df2f4a11d077e3.png",
+                "id": "eb5d6b7bae960e270e6o5k",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "4f2099cabf55522f",
+                "lon": "-99.2243",
+                "model": "LC-1192_WiFi&BT_Music",
+                "name": "Master Bedroom Bathroom",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "tvhbzl4xswwp4syc",
+                "product_name": "LC-1192 Foco Inteligente ",
+                "status": [
+                    {
+                        "code": "switch_led",
+                        "value": true
+                    },
+                    {
+                        "code": "work_mode",
+                        "value": "white"
+                    },
+                    {
+                        "code": "bright_value_v2",
+                        "value": 1000
+                    },
+                    {
+                        "code": "temp_value_v2",
+                        "value": 2
+                    },
+                    {
+                        "code": "colour_data_v2",
+                        "value": "{\"h\":0,\"s\":0,\"v\":1000}"
+                    },
+                    {
+                        "code": "scene_data_v2",
+                        "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":0,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    },
+                    {
+                        "code": "music_data",
+                        "value": ""
+                    },
+                    {
+                        "code": "control_data",
+                        "value": ""
+                    },
+                    {
+                        "code": "rhythm_mode",
+                        "value": "AAAAAAA="
+                    },
+                    {
+                        "code": "sleep_mode",
+                        "value": "AAA="
+                    },
+                    {
+                        "code": "wakeup_mode",
+                        "value": "AAA="
+                    },
+                    {
+                        "code": "power_memory",
+                        "value": "AAEAAAAAA+gD6AAC"
+                    },
+                    {
+                        "code": "do_not_disturb",
+                        "value": false
+                    },
+                    {
+                        "code": "cycle_timing",
+                        "value": "AAAA"
+                    },
+                    {
+                        "code": "random_timing",
+                        "value": "AAAA"
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-06:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1676950736,
+                "uuid": "f11548e634cb946c"
+            },
+            {
+                "active_time": 1673904535,
+                "biz_type": 18,
+                "category": "dj",
+                "create_time": 1666059150,
+                "icon": "smart/icon/001460162698766TR4v1/55b5daf5cdd9fb30c7c045f457770fbe.png",
+                "id": "eb70940d752f4fc90ckbq5",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "11a598ab1793f58a",
+                "lon": "-99.2242",
+                "model": "",
+                "name": "Office Lights",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "qoqolwtqzfuhgghq",
+                "product_name": "TC0000_W600_LIGHT5_RGBCW_P1",
+                "status": [
+                    {
+                        "code": "switch_led",
+                        "value": true
+                    },
+                    {
+                        "code": "work_mode",
+                        "value": "white"
+                    },
+                    {
+                        "code": "bright_value_v2",
+                        "value": 1000
+                    },
+                    {
+                        "code": "temp_value_v2",
+                        "value": 0
+                    },
+                    {
+                        "code": "colour_data_v2",
+                        "value": "{\"h\":0,\"s\":1000,\"v\":1000}"
+                    },
+                    {
+                        "code": "scene_data_v2",
+                        "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":1000,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    },
+                    {
+                        "code": "music_data",
+                        "value": ""
+                    },
+                    {
+                        "code": "control_data",
+                        "value": ""
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-06:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1673904535,
+                "uuid": "58525607286dcd555d56"
+            },
+            {
+                "active_time": 1672885410,
+                "biz_type": 18,
+                "category": "cz",
+                "create_time": 1672885410,
+                "icon": "smart/icon/ay15422864509092y6k8/7065b46b115fa67e88bdc435abb48693.png",
+                "id": "eb06122ffd1a00860blbqc",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "e246adc304598168",
+                "lon": "-99.2243",
+                "model": "LSP-A",
+                "name": "Master Bedroom SmartPlug",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "jorlvalcdf5lz6qa",
+                "product_name": "Wifi Plug",
+                "status": [
+                    {
+                        "code": "switch_1",
+                        "value": true
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    },
+                    {
+                        "code": "relay_status",
+                        "value": "last"
+                    },
+                    {
+                        "code": "child_lock",
+                        "value": false
+                    },
+                    {
+                        "code": "cycle_time",
+                        "value": ""
+                    },
+                    {
+                        "code": "random_time",
+                        "value": ""
+                    },
+                    {
+                        "code": "switch_inching",
+                        "value": ""
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-06:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1672975805,
+                "uuid": "cff4587348614bf7"
+            },
+            {
+                "active_time": 1672534999,
+                "biz_type": 18,
+                "category": "cz",
+                "create_time": 1672534999,
+                "icon": "smart/icon/ay15422864509092y6k8/7065b46b115fa67e88bdc435abb48693.png",
+                "id": "eb54fffa5d28473397wlfa",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "c45f0c1d0c09e916",
+                "lon": "-99.2243",
+                "model": "LSP-A",
+                "name": "Adrian’s Room Smart Plug",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "jorlvalcdf5lz6qa",
+                "product_name": "Wifi Plug",
+                "status": [
+                    {
+                        "code": "switch_1",
+                        "value": true
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    },
+                    {
+                        "code": "relay_status",
+                        "value": "power_on"
+                    },
+                    {
+                        "code": "child_lock",
+                        "value": false
+                    },
+                    {
+                        "code": "cycle_time",
+                        "value": ""
+                    },
+                    {
+                        "code": "random_time",
+                        "value": ""
+                    },
+                    {
+                        "code": "switch_inching",
+                        "value": ""
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-06:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1672535055,
+                "uuid": "d8f356eb8cb23139"
+            },
+            {
+                "active_time": 1669504233,
+                "biz_type": 18,
+                "category": "rqbj",
+                "create_time": 1669504233,
+                "icon": "smart/icon/ay1544185183501IhqNw/3743d7835c02b33cb64f2b8f4823d912.png",
+                "id": "eb05eee7f7d0dbac2eu6gi",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "1d692b5b5f25591f",
+                "lon": "-99.2242",
+                "model": "ZX-GS21",
+                "name": "Gas Sensor",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "ozcdjaqrxauonq1f",
+                "product_name": "Wi-Fi gas detector",
+                "status": [
+                    {
+                        "code": "gas_sensor_state",
+                        "value": "2"
+                    },
+                    {
+                        "code": "gas_sensor_value",
+                        "value": 1
+                    },
+                    {
+                        "code": "alarm_time",
+                        "value": 60
+                    },
+                    {
+                        "code": "self_checking",
+                        "value": false
+                    },
+                    {
+                        "code": "checking_result",
+                        "value": "check_success"
+                    },
+                    {
+                        "code": "preheat",
+                        "value": false
+                    },
+                    {
+                        "code": "lifecycle",
+                        "value": true
+                    },
+                    {
+                        "code": "muffling",
+                        "value": false
+                    },
+                    {
+                        "code": "co_state",
+                        "value": "normal"
+                    },
+                    {
+                        "code": "co_value",
+                        "value": 30
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-06:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1669512104,
+                "uuid": "f34f42d2da10e752"
+            },
+            {
+                "active_time": 1665457731,
+                "biz_type": 18,
+                "category": "dj",
+                "create_time": 1665457731,
+                "icon": "smart/icon/001460162698766TR4v1/55b5daf5cdd9fb30c7c045f457770fbe.png",
+                "id": "eb369b902649b69650a4tz",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "8e22ee1c6ee7d43b",
+                "lon": "-99.2243",
+                "model": "",
+                "name": "Living Room Dining Room",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "qoqolwtqzfuhgghq",
+                "product_name": "TC0000_W600_LIGHT5_RGBCW_P1",
+                "status": [
+                    {
+                        "code": "switch_led",
+                        "value": true
+                    },
+                    {
+                        "code": "work_mode",
+                        "value": "white"
+                    },
+                    {
+                        "code": "bright_value_v2",
+                        "value": 1000
+                    },
+                    {
+                        "code": "temp_value_v2",
+                        "value": 2
+                    },
+                    {
+                        "code": "colour_data_v2",
+                        "value": "{\"h\":0,\"s\":0,\"v\":1000}"
+                    },
+                    {
+                        "code": "scene_data_v2",
+                        "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":1000,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    },
+                    {
+                        "code": "music_data",
+                        "value": ""
+                    },
+                    {
+                        "code": "control_data",
+                        "value": ""
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-05:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1669259043,
+                "uuid": "80777461286dcd04d00f"
+            },
+            {
+                "active_time": 1665772516,
+                "biz_type": 18,
+                "category": "dj",
+                "create_time": 1664090202,
+                "icon": "smart/icon/001460162698766TR4v1/55b5daf5cdd9fb30c7c045f457770fbe.png",
+                "id": "eba158306ab78a130bx4ql",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "d992a5d65c7298fb",
+                "lon": "-99.2242",
+                "model": "",
+                "name": "Master Bedroom Nightstand",
+                "online": false,
+                "owner_id": "11550402",
+                "product_id": "qoqolwtqzfuhgghq",
+                "product_name": "TC0000_W600_LIGHT5_RGBCW_P1",
+                "status": [
+                    {
+                        "code": "switch_led",
+                        "value": false
+                    },
+                    {
+                        "code": "work_mode",
+                        "value": "white"
+                    },
+                    {
+                        "code": "bright_value_v2",
+                        "value": 1000
+                    },
+                    {
+                        "code": "temp_value_v2",
+                        "value": 0
+                    },
+                    {
+                        "code": "colour_data_v2",
+                        "value": "{\"h\":279,\"s\":20,\"v\":1000}"
+                    },
+                    {
+                        "code": "scene_data_v2",
+                        "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":1000,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    },
+                    {
+                        "code": "music_data",
+                        "value": ""
+                    },
+                    {
+                        "code": "control_data",
+                        "value": ""
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-05:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1669259005,
+                "uuid": "80777461286dcd02aa88"
+            },
+            {
+                "active_time": 1665793228,
+                "biz_type": 18,
+                "category": "dj",
+                "create_time": 1665793228,
+                "icon": "smart/icon/001460162698766TR4v1/55b5daf5cdd9fb30c7c045f457770fbe.png",
+                "id": "eb95583ae8c80672cffcnn",
+                "ip": "189.216.183.95",
+                "lat": "19.3602",
+                "local_key": "1e72b505a5131e5f",
+                "lon": "-99.2242",
+                "model": "",
+                "name": "Living Room Living Room",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "qoqolwtqzfuhgghq",
+                "product_name": "TC0000_W600_LIGHT5_RGBCW_P1",
+                "status": [
+                    {
+                        "code": "switch_led",
+                        "value": true
+                    },
+                    {
+                        "code": "work_mode",
+                        "value": "white"
+                    },
+                    {
+                        "code": "bright_value_v2",
+                        "value": 1000
+                    },
+                    {
+                        "code": "temp_value_v2",
+                        "value": 2
+                    },
+                    {
+                        "code": "colour_data_v2",
+                        "value": "{\"h\":279,\"s\":20,\"v\":1000}"
+                    },
+                    {
+                        "code": "scene_data_v2",
+                        "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":1000,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    },
+                    {
+                        "code": "music_data",
+                        "value": ""
+                    },
+                    {
+                        "code": "control_data",
+                        "value": ""
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-05:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1669258961,
+                "uuid": "84074585286dcd0f7747"
+            },
+            {
+                "active_time": 1666335418,
+                "biz_type": 18,
+                "category": "cz",
+                "create_time": 1666335418,
+                "icon": "smart/icon/ay15027809538862HzJ4/8efb03cc21748b692954e3569c4cea39.png",
+                "id": "ebdc20380d0115cce8y2ac",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "4c13887683a593ee",
+                "lon": "-99.2243",
+                "model": "AWP02L-BT",
+                "name": "Master Bedroom iPad Pro",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "d7aa9we8g044hufo",
+                "product_name": "双模美规小圆",
+                "status": [
+                    {
+                        "code": "switch_1",
+                        "value": false
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-05:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1669258904,
+                "uuid": "af1314d7a5f416a7"
+            },
+            {
+                "active_time": 1666470425,
+                "biz_type": 18,
+                "category": "dj",
+                "create_time": 1665783792,
+                "icon": "smart/icon/001460162698766TR4v1/55b5daf5cdd9fb30c7c045f457770fbe.png",
+                "id": "eb026bc559040338d0j603",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "60037439253376d5",
+                "lon": "-99.2243",
+                "model": "",
+                "name": "Master Bedroom Ceiling",
+                "online": false,
+                "owner_id": "11550402",
+                "product_id": "qoqolwtqzfuhgghq",
+                "product_name": "TC0000_W600_LIGHT5_RGBCW_P1",
+                "status": [
+                    {
+                        "code": "switch_led",
+                        "value": false
+                    },
+                    {
+                        "code": "work_mode",
+                        "value": "white"
+                    },
+                    {
+                        "code": "bright_value_v2",
+                        "value": 1000
+                    },
+                    {
+                        "code": "temp_value_v2",
+                        "value": 0
+                    },
+                    {
+                        "code": "colour_data_v2",
+                        "value": "{\"h\":0,\"s\":1000,\"v\":1000}"
+                    },
+                    {
+                        "code": "scene_data_v2",
+                        "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":1000,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    },
+                    {
+                        "code": "music_data",
+                        "value": ""
+                    },
+                    {
+                        "code": "control_data",
+                        "value": ""
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-05:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1669258664,
+                "uuid": "80777461286dcd0cbd5b"
+            },
+            {
+                "active_time": 1668852611,
+                "biz_type": 18,
+                "category": "kg",
+                "create_time": 1576032674,
+                "icon": "smart/icon/ay1502531417425W3pPt/f04385fadec0b62720e56740cb4f0774.jpg",
+                "id": "652207152cf432da5e04",
+                "ip": "189.216.183.95",
+                "lat": "19.3604",
+                "local_key": "30883a92e2d633be",
+                "lon": "-99.2242",
+                "model": "",
+                "name": "Master Bedroom SmartPlug",
+                "online": true,
+                "owner_id": "11550402",
+                "product_id": "ksizuyaoqyrz4let",
+                "product_name": " WiFi",
+                "status": [
+                    {
+                        "code": "switch_1",
+                        "value": true
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    }
+                ],
+                "sub": false,
+                "time_zone": "-06:00",
+                "uid": "az1576031540597pNp4w",
+                "update_time": 1669258538,
+                "uuid": "652207152cf432da5e04"
+            }
+        ],
+        "has_more": false,
+        "last_row_key": "42E940D3997D3C99A4B5A59D58CA6FA4",
+        "total": 14
+    },
+    "success": true,
+    "t": 1678251965103,
+    "tid": "ed89b77abd6e11edb116ca01c278d0e8"
+}
+
